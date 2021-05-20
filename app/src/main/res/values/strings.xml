@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">To do App</string>
+
+    <!-- Title -->
+    <string name="login_title">Merci de vous connecter</string>
+    <string name="register_title">Inscription</string>
+
+    <!-- Label -->
+    <string name="email_label">Email</string>
+    <string name="password_label">Mot de passe</string>
+    <string name="lastname_label">Nom</string>
+    <string name="firstname_label">Prénom</string>
+    <string name="password_confirmation_label">Confirmation du mot de passe</string>
+
+    <!-- Button -->
+    <string name="login_button">Connexion</string>
+    <string name="register_button">Inscription</string>
+
+    <!-- Field validation -->
+    <string name="password_different">Les deux mots de passes doivent correspondrent</string>
+    <string name="password_length">Le mot de passe doit faire plus de 4 caractères</string>
+    <string name="required_field">Ce champs doit-être rempli</string>
+    <string name="valid_email">Ce champs doit être une adresse email valide</string>
+
+    <!-- Toasts -->
+    <string name="connected_as">Connecté en tant que %1$s %2$s</string>
+    <string name="retrieve_user_data_error">Impossible de récupérer les informations l\'utilisateur</string>
+    <string name="login_user_error">Impossible de connecter l\'utilisateur</string>
+    <string name="hello">Bonjour %1$s %2$s</string>
+    <string name="new_task">Nouvelle tâche</string>
+</resources>
